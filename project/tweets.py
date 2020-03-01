@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 from tweepy import Stream
 import real_time_processing as rt
 import json
-consumer_key="mByIO5OAkU6Gm9LO56fu9jeS8"
-consumer_secret="YUr2qAQbPUHliNEadFm85Llp6xiSzjFZR9VkFleYmCw64noZd1"
-access_token="989446264281616384-glTetE8r7cIoPFykS6CLs5BNDhjIzqM"
-access_token_secret="qRFcRFJDlWw4zlttZLv5tGFdvsitrGFJFFgIJ34Z1g4AM"
+consumer_key="##################################"
+consumer_secret="################################################"
+access_token="####################################################"
+access_token_secret="#############################################"
 
 
 class StdOutListener(StreamListener):
